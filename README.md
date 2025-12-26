@@ -13,4 +13,4 @@ This repository contains basic C programs created for learning programming funda
 
 ## Author
 Samrudhi Rao  
-BCS Final Year Student
+BCS Student
