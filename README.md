@@ -3,8 +3,8 @@
 This repository contains basic C programs created for learning programming fundamentals.
 
 ## Programs Included
-- Calculator program
-- Basic input/output examples
+- scientific Calculator program
+- guessing game program
 
 ## Skills Practiced
 - C programming
