@@ -5,6 +5,7 @@ This repository contains basic C programs created for learning programming funda
 ## Programs Included
 - scientific Calculator program
 - guessing game program
+- students marks management system 
 
 ## Skills Practiced
 - C programming
